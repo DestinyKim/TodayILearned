@@ -1,0 +1,3 @@
+To Do
+===================
+* Coursera 1_What is neural network 강의 정리
