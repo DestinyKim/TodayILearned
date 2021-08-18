@@ -1,3 +1,5 @@
 To Do
 ===================
-* Coursera 1_What is neural network 강의 정리
+* Coursera - Logistic Regression as a Neural Network 강의 정리 
+* Coursera - Python and Vectorization 강의 정리
+* 4주차 미션까지 완료한 후, 메일 보내기
