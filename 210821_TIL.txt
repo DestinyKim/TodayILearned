@@ -1,0 +1,15 @@
+﻿To Do
+===================
+* 신경망 기초 수학 강의 듣기
+* Coursera 3주차 강의 듣기 및 과제
+
+
+
+
+
+
+
+
+* Coursera - Logistic Regression as a Neural Network 강의 정리 
+* Coursera - Python and Vectorization 강의 정리
+* 3주차 미션까지 완료한 후, 메일 보내기
