@@ -1,0 +1,12 @@
+﻿To Do
+===================
+* Coursera 6주차 Convolutional Neural Networks 과제 및 미션완료 메일 전송
+* 1-4.Deep Neural Networks 정리
+* 신경망 데이터 표현 정리
+
+
+
+
+
+* Coursera - Logistic Regression as a Neural Network 강의 정리
+* Coursera - Python and Vectorization 강의 정리
