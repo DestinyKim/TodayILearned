@@ -1,6 +1,7 @@
 ﻿To Do
 ===================
 * Coursera 7주차 Convolutional Neural Networks 강의 듣고 과제 마무리
+* Coursera 7주차 Recurrent Neural Networks 강의 듣기
 * Sequential Model 정리
 * Matplotlib 데이터 시각화 정리 
 * 1-4.Deep Neural Networks 정리
