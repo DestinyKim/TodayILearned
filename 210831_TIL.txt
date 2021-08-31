@@ -1,0 +1,13 @@
+﻿To Do
+===================
+* Coursera 7주차 Convolutional Neural Networks 강의 듣고 과제 마무리
+* Matplotlib 데이터 시각화 정리 
+* 1-4.Deep Neural Networks 정리
+* 신경망 데이터 표현 정리
+
+
+
+
+
+* Coursera - Logistic Regression as a Neural Network 강의 정리
+* Coursera - Python and Vectorization 강의 정리
