@@ -1,0 +1,14 @@
+﻿To Do
+===================
+* 1-4.Deep Neural Networks 정리
+* 신경망 데이터 표현 정리
+* 자료형태의 이해 & 데이터 전처리 정리
+
+
+
+
+
+
+
+
+* Coursera-Sequence Models 3주차 강의 듣기
