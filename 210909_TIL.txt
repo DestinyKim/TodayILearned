@@ -1,0 +1,13 @@
+﻿To Do
+===================
+
+* Coursera-Sequence Models 3주차 과제 완료 후 미션 완료 메일 전송
+* 1-4.Deep Neural Networks 정리
+* 신경망 데이터 표현 정리
+
+
+
+
+
+
+
