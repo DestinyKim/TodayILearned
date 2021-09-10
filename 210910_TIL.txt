@@ -1,0 +1,14 @@
+﻿To Do
+===================
+
+* ML-로지스틱 회귀(Logistic Regression) 정리
+* Tabular-Stacking Ensemble for Beginner 공부
+* 1-4.Deep Neural Networks 정리
+
+
+
+
+
+
+
+
