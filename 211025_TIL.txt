@@ -1,0 +1,4 @@
+To Do
+============================================
+# Tensorflow 강의 1주차
+	- A New Programming Paradigm
