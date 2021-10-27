@@ -3,4 +3,4 @@ To Do
 # Tensorflow 강의 1주차 정리
 	- A New Programming Paradigm
 
-# loc를 이용한 인덱싱 재정립
+# 시리즈 개념 재정립
